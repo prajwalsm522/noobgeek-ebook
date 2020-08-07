@@ -10,6 +10,12 @@ h1{
     position: relative;
     padding-top: -50px;
 }
+h5
+{
+    border-style: unset;
+    border-bottom: solid white;
+    text-align: center;
+}
 .quote{
     text-align: center;
     position: relative;
@@ -18,8 +24,16 @@ h1{
     font-family: 'Press Start 2P', cursive;
     
 }
+.scrolling
+{
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-top: -20%;
+}
 .p{
  text-align: center;
+ 
 
 }
 .image
@@ -28,6 +42,7 @@ h1{
    height: auto;
    position: relative;
    padding-left: 40%;
+   padding-top: 20px;
 }
 .Title{
     font-family: Verdana, Geneva, Tahoma;
@@ -38,9 +53,18 @@ h1{
 {
     border-style: outset;
     border-color: ivory 10px;
+    
 
 }
-.bx-download
+
 {
+    text-align: center;
+}
+.developer
+{
+    border-style: solid;
+    border-color:solid black;
+    text-align: left;
+    font-family: monospace;
     text-align: center;
 }
