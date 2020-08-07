@@ -1,0 +1,46 @@
+body{
+    background-color: skyblue;
+
+}
+.logo{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    position: relative;
+    padding-top: -50px;
+}
+.quote{
+    text-align: center;
+    position: relative;
+    padding-top: -30px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+.p{
+ text-align: center;
+
+}
+.image
+{
+   width: 25%;
+   height: auto;
+   position: relative;
+   padding-left: 40%;
+}
+.Title{
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 20px;
+    text-align: center;
+}
+.book
+{
+    border-style: outset;
+    border-color: ivory 10px;
+
+}
+.bx-download
+{
+    text-align: center;
+}
